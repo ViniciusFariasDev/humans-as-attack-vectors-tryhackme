@@ -28,7 +28,5 @@ The goal of this lab is to understand how human behavior can be exploited in cyb
 
 ---
 
-## 📸 Screenshots
 
-Screenshots related to the lab completion and exercises are stored in:
 
